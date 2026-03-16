@@ -1,5 +1,6 @@
 """
-Strategy es un patrón de diseño de comportamiento que te permite definir una familia de algoritmos, colocar cada uno de ellos en una clase separada y hacer sus objetos intercambiables.
+Strategy es un patrón de diseño de comportamiento que te permite definir una familia de algoritmos, 
+colocar cada uno de ellos en una clase separada y hacer sus objetos intercambiables.
 
 O sea, un familia de problemas tiene varas soluciones que se adecuan a diferentes situaciones o circunstancias
 ejemplo: el calculo de área de figuras geometricas.
